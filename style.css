@@ -1,0 +1,91 @@
+  body{
+  max-width: 1000px;
+  margin: auto;
+  display: block;
+ }              
+ .div1{
+  background-image: url("images/pic1.jpg");
+  background-size: cover;
+  padding: 200px 0 300px 0;
+  border-radius: 20px;
+ }       
+ #h1{
+  padding: 20px 50px 0 150px;
+  text-transform: uppercase;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+ }
+ #h2{
+  padding: 0px 50px 10px50px;
+  text-transform: uppercase;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+ }
+ .div1 h2{
+  padding: 0px 50px 10px 50px;
+  color: white;
+ }
+ .div1 a{
+  padding: 0px 50px 10px 50px;
+  color: white;
+  text-decoration: none;
+ }
+ #sp1{
+  border: 2px solid black;
+  padding: 5px;
+  border-radius: 10px;
+  font-weight: bold;
+  margin: 0 40px 10px 90px;
+  font-size: 25px;
+ }
+ #sp1:hover{
+  font-weight: bold;
+  font-size: 25px;
+  border: 4px solid black;
+ }
+ #heading2{
+  border: 2px solid black;
+  text-align: center;
+  background-color: rgb(36,41,46);
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+ }
+ img{
+  display: block;
+  height: 70%;
+  width: 100%;
+  border-radius: 10px;
+ }
+ #pic1, #pic2, #pic3, #pic4, #pic5, #pic6{
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  font-style: verdana;
+  margin-bottom: 20px;
+  border-radius: 10px;
+ }
+ .caption{
+  font-size: 20px;
+  font-weight: bold;
+  border: 2px solid black;
+  text-align: center;
+  background-color: rgb(36,41,46);
+  color: white;
+  padding: 10px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+ }
+ footer{
+  text-align: center;
+  font-family: "Helvetica Neue";
+  background-color: rgb(36,41,46);
+  border-radius: 10px;
+  color: white;
+  margin-bottom: 30px;
+ }
+ footer a{
+  color: white;
+ }
